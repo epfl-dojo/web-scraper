@@ -1,0 +1,21 @@
+{
+  "name": "dojo-redis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "debug": "^3.1.0",
+    "express": "^4.16.3",
+    "redis": "^2.8.0",
+    "request": "^2.86.0",
+    "request-promise-native": "^1.0.5",
+    "url": "^0.11.0"
+  }
+}
